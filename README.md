@@ -1,5 +1,5 @@
 # low-cost-plant-watering
-Results of our Project: developping a low cost plant watering system
+Results of our Project: developing a low cost plant watering system.
 
-The project is currently under developpment. 
-We will share our results here
+The project is currently under development. 
+We will share our results here.
